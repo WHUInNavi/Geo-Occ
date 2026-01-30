@@ -12,7 +12,7 @@ We provide the pre-trained weights for Geo-Occ under different configurations. A
 | **V1: Geo-Occ** | 1 | R50 | R18 | 256x704 | **39.58** | [🔗 gdrive](https://drive.google.com/file/d/16z47nqU0imfzJsbEF7yGh4zTiazs5Hvj/view?usp=sharing) |
 | **M3: FlashOcc-4D-Stereo** | 2 | Swin-B | - | 512x1408 | 43.52 | [🔗 gdrive](https://drive.google.com/file/d/1f6E6Bm6enIJETSEbfXs57M0iOUU997kU/view) |
 | **V5: SA-Occ** | 2 | Swin-B | R50 | 512x1408 | 43.06 | [🔗 gdrive](https://drive.google.com/file/d/1wnOGNadRJk9pBpM8Z0YJiad5jYlNdeOU/view) |
-| **V2: Geo-Occ*** | 2 | Swin-B | R50 | 512x1408 | **44.62** | [🔗 gdrive](https://drive.google.com/file/d/12Xsjv0ot9QWEGx_UqF0m1mMp8aR6x6pb/view?usp=sharing) |
+| **V2: Geo-Occ** | 2 | Swin-B | R50 | 512x1408 | **44.62** | [🔗 gdrive](https://drive.google.com/file/d/12Xsjv0ot9QWEGx_UqF0m1mMp8aR6x6pb/view?usp=sharing) |
 
 ## 💾 Dataset Access
 
