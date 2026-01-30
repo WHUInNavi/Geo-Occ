@@ -6,7 +6,7 @@ Geo-Occ: A pioneering framework and multi-source dataset for Cross-View 3D Occup
 We provide the pre-trained weights for Geo-Occ under different configurations. All models are trained on the Geo-Occ-Dataset.
 
 | Config | Frame | Backbone | Backbone(Sat) | Input Size | mIoU | Model |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|:---------------------------------------------------------------------------------------------------|:--------:|:--------:|:------------:|:----------:|:-------:|:-------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|
 | **M1:FlashOcc** | 1 | R50 | - | 256x704 | 32.01 | [🔗 gdrive](https://drive.google.com/file/d/1k9BzXB2nRyvXhqf7GQx3XNSej6Oq6I-B/view) |
 | **V1:SA-Occ** | 1 | R50 | R18 | 256x704 | 37.84 | [🔗 gdrive](https://drive.google.com/file/d/1Dh2B_Z1OYYBrepsUvw1c1wbbLv_3iCcH/view) |
 | **V1:Geo-Occ** | 1 | R50 | R18 | 256x704 | 39.58 | [🔗 gdrive](https://drive.google.com/file/d/16z47nqU0imfzJsbEF7yGh4zTiazs5Hvj/view?usp=sharing) |
